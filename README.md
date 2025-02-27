@@ -1,5 +1,5 @@
 # odin-recipes
-learned to created html boilerplate
-learned about a number of html functions 
-learned to insert links and images 
-learned to push project to git
+<p>learned to created html boilerplate</p>
+<p>learned about a number of html functions</p>
+<p>learned to insert links and images</p>
+<p>learned to push project to git</p>
