@@ -3,9 +3,37 @@
     box-sizing: border-box;
 }
 
-.title {
+h1 {
     text-align: center;
     background-color: pink;
-    border: black 5px;
+    border: black 10px;
     padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+p {
+    padding: 20px;
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.container {
+    width:80%;
+    margin:0 auto;
+}
+
+button {
+    all: unset;
+}
+
+button a {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    display: block;
 }
