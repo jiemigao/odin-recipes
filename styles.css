@@ -1,0 +1,11 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+.title {
+    text-align: center;
+    background-color: pink;
+    border: black 5px;
+    padding: 20px;
+}
